@@ -1,4 +1,4 @@
-//Mon premier server en HTTP
+//Mon premier server en HTTP atelier 1
 const http = require('http');
 const queryString = require('query-string');
 const server = http.createServer((req, res) => {
